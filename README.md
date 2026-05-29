@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=f88cae&height=230&section=header&text=Infomation%20&fontSize=60)
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f88cae&color=auto&height=230&section=header&text=Infomation%20&fontSize=60)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header)-->
 
 
 <!--
