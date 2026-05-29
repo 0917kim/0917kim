@@ -10,8 +10,8 @@
 - 🎂 birth:
 - 🎶 interest: 음악감상
 - 📧 address:
+  <br>
 - 🖼️ My skills: design tools
-<br>
   <br>[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev)
 - 💻 My skills: dev tools
    <br>[![My Skills](https://skillicons.dev/icons?i=html,js,github)](https://skillicons.dev)
