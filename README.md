@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20there👋&fontSize=50)
 
 <!--
