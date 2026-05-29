@@ -1,5 +1,6 @@
-## Hi 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=#f88cae&height=220&section=header&text=Hi%2👋&fontSize=50)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hello%20there👋&fontSize=50)
+
 
 <!--
 **0917kim/0917kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
