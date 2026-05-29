@@ -5,7 +5,8 @@
 <!--
 **0917kim/0917kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 🌱오르미 프론트엔드 14기 수강중...
--
+🎶노래듣는걸 좋아합니다
+- 
 - 🖼️ My skills: design tools
   <br>[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev)
 - 💻 My skills: dev tools
