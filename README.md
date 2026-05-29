@@ -9,8 +9,11 @@
 - 🪪 name: 김명서
 - 🎂 birth:
 - 🎶 interest: 음악감상
-- 📧 address:
+
 - 🖼️ My skills: design tools
   <br>[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev)
 - 💻 My skills: dev tools
-   <br>[![My Skills](https://skillicons.dev/icons?i=html,js,github)](https://skillicons.dev)
+   <br>[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+- 📧 address:
+  <br>[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+  <br>[![My Skills](https://skillicons.dev/icons?i=githud)](https://skillicons.dev)
