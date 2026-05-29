@@ -16,5 +16,5 @@
    <br>[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 - 📧 address:
   <br>[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-  <br>([![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)fontsize:10) @0917kim
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) @0917kim
 <!--https://github.com/tandpfun/skill-icons#readme-->
