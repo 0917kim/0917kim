@@ -10,6 +10,7 @@
 - 🎂 birth:
 - 🎶 interest: 음악감상, 웹사이트 조사
   ###
+-  
 
 - 🖼️ My skills: design tools
   <br>[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev)
